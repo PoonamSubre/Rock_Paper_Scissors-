@@ -1,0 +1,1 @@
+The Rock Paper Scissors Game project is a web-based implementation of the classic Rock, Paper, Scissors game. This application allows two players to engage in multiple rounds, where each player selects one of the three options: rock, paper, or scissors. The system then determines the winner based on the game rules, and a cumulative score is maintained throughout the session.
